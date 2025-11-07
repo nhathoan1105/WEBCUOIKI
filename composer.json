@@ -1,10 +1,10 @@
 {
-    "name": "tiennguye/assignment2",
+    "name": "webcuoiki/mvc-php-tintuc",
     "description": "Website tin tuc su dung MVC PHP",
     "authors": [
         {
-            "name": "Tien Nguyen",
-            "email": "tiennvph05036@fpt.edu.vn"
+            "name": "Phan Tan Nhat Hoan",
+            "email": "nhathoan1105@gmail.com"
         }
     ],
     "require": {},

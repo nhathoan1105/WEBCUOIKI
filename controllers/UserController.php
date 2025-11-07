@@ -65,7 +65,7 @@ class UserController extends BaseController
 				die;
 			}
 			$ext = pathinfo($avatar['name'], PATHINFO_EXTENSION);
-			$allowedExt = ['jpg', 'png', 'jpeg', 'gif'];
+			$allowedExt = ['jpg', 'png', 'jpeg', 'gif', 'webp'];
 			if (!in_array($ext, $allowedExt)) {
 				return $this->redirect('admin/login?msg=Invaild images format&action=1');
 				die;

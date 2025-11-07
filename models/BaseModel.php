@@ -220,7 +220,7 @@ class BaseModel
 	function getConnect()
 	{
 		$servername = '127.0.0.1';
-		$dbname = 'tintuc_php';
+		$dbname = 'tintuc';
 		$dbusername = 'root';
 		$dbpwd = '';
 		$conn = new \PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $dbusername, $dbpwd);

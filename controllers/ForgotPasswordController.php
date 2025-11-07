@@ -40,18 +40,18 @@ class ForgotPasswordController extends BaseController
 		$email = $email; // email nhan 
 		$name = $user->username; // ten ng nhan
 
-		$email_from = 'tiennvph05036@fpt.edu.vn'; // email gui va nhan reply
-		$name_from = 'Admin';
+		$email_from = 'nhathoan1105@gmail.com'; // email gui va nhan reply
+		$name_from = 'nhathoan1105'; // ten nguoi gui
 		//Send mail using gmail
 		// if($send_using_gmail){
 		    $mail->IsSMTP(); // telling the class to use SMTP
 		   	$mail->IsHTML(true);
 		    $mail->SMTPAuth = true; // enable SMTP authentication
 		    $mail->SMTPSecure = "ssl"; // sets the prefix to the servier
-		    $mail->Host = "smtp.gmail.com"; // sets GMAIL as the SMTP server
+		    $mail->Host = "nhathoan1105@gmail.com"; // sets GMAIL as the SMTP server
 		    $mail->Port = 465; // set the SMTP port for the GMAIL server
-		    $mail->Username = "tiennvph05036@fpt.edu.vn"; // GMAIL username
-		    $mail->Password = "0509940231998TT"; // GMAIL password
+		    $mail->Username = "nhathoan1105@gmail.com"; // GMAIL username
+		    $mail->Password = "your_password"; // GMAIL password
 		// }
 		 
 		//Typical mail data

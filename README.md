@@ -33,5 +33,5 @@
 | STT | MSSV        | Họ và Tên            | GitHub                                   | Email                                                   |
 |-----|-------------|----------------------|------------------------------------------|---------------------------------------------------------|
 | 1   | 31231022028 | Phan Tấn Nhật Hoàn   | [nhathoan1105](https://github.com/nhathoan1105) | hoanphan.31231022028@st.ueh.edu.vn |
-| 2   | 31231025248 | Đinh Nhật Hào        | [nhathao28](https://github.com/nhathao28)       | haodinh.31231025248@st.ueh.edu.vn |
-
+| 2   | 31231025248 | Đinh Nhật Hào        | [nhathao28](https://github.com/nhathao28)       | haodinh.31231025248@st.ueh.edu.vn  |
+| 3   | 31231025248 | Lưu Nhật Tân         |                                                 |                                    |

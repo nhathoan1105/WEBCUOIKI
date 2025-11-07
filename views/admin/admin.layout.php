@@ -227,7 +227,7 @@ if (!isset($_SESSION['user'])) {
 	<div class="row">
 		<div class="col-sm-2 sidebar">
 			<ul class="control col-xs-12">
-				<li class="active"><a href="http://localhost/webtintuc/admin">Dashboard</a></li>
+				<li class="active"><a href="http://localhost/doancuoikiweb/WEBCUOIKI/admin">Dashboard</a></li>
 				<li><a href="#">Category</a>
 					<ul class="sub-menu">
 						<li><a href="<?=getUrl('admin/category/add'); ?>">┗ Add new</a></li>

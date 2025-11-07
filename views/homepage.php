@@ -34,7 +34,7 @@
 				<span class="sr-only">Next</span>
 			</a>
 		</section>
-	</section>
+	</section>	
 	<section class="article container">
 		<?php echo $hotnews ?>
 		<section class="fashion_and_travel row">

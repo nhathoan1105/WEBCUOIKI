@@ -4,11 +4,14 @@
 			<section class="row">
 				<section class="col-lg-4">
 					<h2>
-						About TienNguyen
+						About Us
 					</h2>
 					<section class="footer__box">
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+							Báo chuyên về tin tức ngôi sao giải trí Việt Nam và thế giới, cập nhật nhanh nhất những thông tin nóng hổi, hình ảnh mới nhất về các sao Việt, sao quốc tế.
+
+						<p>						
+							Tổng biên tập: Hoàn Phan - Địa chỉ: 239 Đặng Tiến Đông, Đống Đa, Hà Nội. Điện thoại: 0888618239
 						</p>
 						Contact me: <br>
 						<a href=""><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
@@ -88,7 +91,7 @@
 						<a href="#">Contact</a>
 					</section>
 					<section class="footer__bottom__right col-lg-6">
-						© Cover by TienNguyen | Design by TheREX - Themeforest
+						© Cover by HoanPhan - 2025
 					</section>
 				</section>
 			</section>

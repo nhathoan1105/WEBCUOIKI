@@ -166,7 +166,7 @@ class AdminController extends BaseController
 			}
 			else{
 				$ext = strtolower(pathinfo($thumbnail['name'], PATHINFO_EXTENSION));
-				$allowedExt = ['jpg', 'png', 'jpeg', 'gif'];
+				$allowedExt = ['jpg', 'png', 'jpeg', 'gif', 'webp'];
 				if (!in_array($ext, $allowedExt)) {
 					if ($id==null) {
 						return $this->redirect('admin/posts/add?msg=Vui lòng upload đúng định dạng ảnh');
@@ -330,7 +330,7 @@ class AdminController extends BaseController
 			$user->about = $about;
 			if ($avatar['name'] != "" && $avatar != false) {
 				$ext = strtolower(pathinfo($avatar['name'], PATHINFO_EXTENSION));
-				$allowedExt = ['jpg', 'png', 'jpeg', 'gif'];
+				$allowedExt = ['jpg', 'png', 'jpeg', 'gif', 'webp'];
 				if (!in_array($ext, $allowedExt)) {
 					return $this->redirect('admin/profile/edit?msg=Invaild images format&action=1');
 					die;

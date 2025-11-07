@@ -1,10 +1,3 @@
-
-
-
-	
-
-
-
 <br><br>
 <section class="comments">
 
