@@ -17,13 +17,12 @@
 ## GIỚI THIỆU ĐỒ ÁN
 - **Đề tài:** Trang web tin tức giải trí  
 - **Repository:** [StarZone](#)  
-- **Behance:** [Starzone Website](#)  
 
 ---
 
 ## CÔNG NGHỆ SỬ DỤNG
 - **Backend:** PHP  
-- **Frontend:** HTML, CSS, JavaScript, ReactJS, Redux, Ant Design, Tailwind CSS  
+- **Frontend:** HTML, CSS, JavaScript, ReactJS
 - **Database:** MySQL  
 
 ---
