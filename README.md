@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_UEH_xanh.png/1200px-Logo_UEH_xanh.png](https://cbs.com.vn/wp-content/uploads/2025/05/UEH_1@2x.png)" width="120">
-</p>
-
 <h2 align="center">PHÁT TRIỂN ỨNG DỤNG WEB - 25C1INF50901401</h2>
 
 ---
